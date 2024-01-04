@@ -20,7 +20,7 @@ The data is organized as an array of objects, with each object representing a co
 
 ## Data Source
 
-The data is sourced from official administrative divisions in Kenya. It provides a structured representation of the geographical subdivisions within the country.
+The data is sourced from valid online sources on divisions in Kenya. It provides a structured representation of the geographical subdivisions within the country.
 
 ## Usage
 
@@ -49,7 +49,6 @@ countiesData.forEach(county => {
 ## License
 
 This data is provided under an [MIT License](LICENSE).
-Feel free to customize the data according to your specific needs.
 
 ---
 
