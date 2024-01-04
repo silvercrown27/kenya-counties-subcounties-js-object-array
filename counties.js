@@ -305,3 +305,5 @@ const countiesData = [
       subCounties: ['Central Pokot', 'North Pokot', 'Pokot South', 'West Pokot'],
     }
 ]
+
+export default countiesData;
